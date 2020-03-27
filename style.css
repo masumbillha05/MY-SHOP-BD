@@ -26,3 +26,22 @@ li.color{
         color: white;
         cursor: pointer;
 }
+.colors, .colors2, .colors3{
+padding: 10px 30px;
+border-radius: 15px;
+}
+.colors{
+    background-image: linear-gradient(50deg, rgb(199, 34, 100)  , #fb0262);
+}
+.colors2{
+    background-image: linear-gradient(50deg, rgb(184, 181, 46)  , #fbeb04);
+}
+.colors3{
+    background-image: linear-gradient(50deg, rgb(62, 46, 177)  , #0415f8);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 80px;
+}
